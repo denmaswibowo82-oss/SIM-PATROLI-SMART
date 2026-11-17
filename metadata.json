@@ -1,0 +1,6 @@
+{
+  "name": "SIM-PATROLI SMART",
+  "description": "Sistem Informasi Manajemen Keluar Masuk Kendaraan Patroli Satuan Polisi Pamong Praja",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
